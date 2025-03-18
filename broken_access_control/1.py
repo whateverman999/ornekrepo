@@ -4,5 +4,5 @@ app = Flask(__name__)
 
 @app.route('/settings/<int:user_id>')
 def profile(user_id):
-    # Erişim kontrolü problem örneği
+    # Erişim kontrolü problem örneği 1
     return '{0} nolu id degerine sahip kullanici ayar sayfasi'.format(user_id)

@@ -1,6 +1,7 @@
 ## Hatalı Erişim Kontrolü Örnek 1
 
 - Missing authentication
+- Kimlik doğrulama uygulanmalıydı
 
 ```python
 from flask import Flask

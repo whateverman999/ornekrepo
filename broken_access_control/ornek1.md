@@ -1,5 +1,7 @@
 ## Hatalı Erişim Kontrolü Örnek 1
 
+- Missing authentication
+
 ```python
 from flask import Flask
 

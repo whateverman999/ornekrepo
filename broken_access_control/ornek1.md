@@ -13,4 +13,4 @@ def main_page():
 def profile(id):
     # Erişim kontrolü problem örneği
     return '{0} nolu id degerine sahip user'.format(id)
-```python
+```
